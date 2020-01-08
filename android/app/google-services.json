@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091306621223",
+    "firebase_url": "https://testingx-b97b5.firebaseio.com",
+    "project_id": "testingx-b97b5",
+    "storage_bucket": "testingx-b97b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091306621223:android:82148aa05049f1ec194102",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091306621223-u5sojcp4579e2ur2dv6rkvj0r67jgr3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2xzzhQcwfVdXCeEkj-REm_gpdLXbnUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091306621223-u5sojcp4579e2ur2dv6rkvj0r67jgr3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
